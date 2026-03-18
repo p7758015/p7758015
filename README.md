@@ -1,16 +1,90 @@
-## Hi there 👋
+# AI Engineer / LLM Developer
 
-<!--
-**p7758015/p7758015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю AI-ассистентов и нейроагентов на Python для автоматизации задач бизнеса: контент, клиентская поддержка, анализ коммуникаций.
 
-Here are some ideas to get you started:
+Работаю с LLM-системами: мультишаговая логика, tool calling, RAG, интеграции с API и пользовательские интерфейсы (Telegram-боты, веб-сервисы).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Основные проекты
+
+### 1️⃣ AI Call Auditor (Анализ звонков менеджеров)
+
+**Problem**  
+Руководителям сложно быстро и объективно оценивать качество звонков менеджеров.
+
+**Solution**  
+AI-сервис анализирует разговор и:
+- оценивает качество звонка (0-100%)
+- выявляет сильные и слабые стороны
+- формирует структурированный отчёт
+
+**Stack**  
+Python, LLM, Docker
+
+**Demo**  
+https://clck.ru/3SJZwA
+
+**Code**  
+https://github.com/p7758015/sales-quality-ai-audit
+
+---
+
+### 2️⃣ AI Content Maker (Контент для Telegram)
+
+**Problem**  
+Создание контента требует времени и сложно сохранять единый стиль.
+
+**Solution**  
+AI-агент:
+- анализирует стиль Telegram-канала  
+- генерирует контент-план  
+- создаёт посты в нужном стиле  
+- автоматически публикует их  
+
+**Stack**  
+Python, LLM, Telegram Bot
+
+**Demo**  
+https://clck.ru/3SJZnn
+
+**Code**  
+https://github.com/p7758015/neuro-tg-content-maker
+
+---
+
+### 3️⃣ AI FAQ Consultant (AI-консультант с базой знаний)
+
+**Problem**  
+Пользователи задают повторяющиеся вопросы, поддержка перегружена.
+
+**Solution**  
+AI-ассистент:
+- парсит FAQ сайта  
+- формирует базу знаний  
+- отвечает на вопросы пользователей (RAG)
+
+**Stack**  
+Python, LLM, RAG, Telegram Bot
+
+**Demo**  
+https://clck.ru/3STL8w
+
+**Code**  
+https://github.com/p7758015/express-faq-telegram-bot
+
+---
+
+## 🧠 Что я умею
+
+- разработка AI-агентов и ассистентов  
+- LLM orchestration  
+- RAG (работа с базами знаний)  
+- интеграция API  
+- создание Telegram-ботов и AI-сервисов  
+
+---
+
+## 📫 Контакты
+
+Telegram: https://t.me/Pavel8015
