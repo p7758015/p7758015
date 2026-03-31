@@ -99,6 +99,9 @@ AI-сервис:
 **Stack**
 Python, FastAPI, LLM, Pydantic, Cursor (AI IDE)
 
+**Demo**
+https://clck.ru/3SrqhE
+
 **Code**
 https://github.com/p7758015/job-gap-assistant
 
